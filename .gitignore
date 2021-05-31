@@ -4,3 +4,4 @@ config/local.neon
 /log
 /temp
 /composer.lock
+/log/.gitignore

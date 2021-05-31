@@ -28,6 +28,7 @@ download it following [the instructions](https://doc.nette.org/composer). Then u
 
 
 Make directories `temp/` and `log/` writable.
+Run composer install in cmd
 
 
 Web Server Setup
