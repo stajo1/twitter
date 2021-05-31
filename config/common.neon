@@ -19,3 +19,5 @@ di:
 
 services:
 	- App\Router\RouterFactory::createRouter
+
+	- {implement: App\Controls\Twitter\ITwitterFactory, arguments: [%twitter%], inject: yes}
