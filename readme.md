@@ -23,13 +23,9 @@ Installation
 The best way to install Web Project is using Composer. If you don't have Composer yet,
 download it following [the instructions](https://doc.nette.org/composer). Then use command:
 
-	composer create-project nette/web-project path/to/install
-	cd path/to/install
-
-
-Make directories `temp/` and `log/` writable.
-Run composer install in cmd
-Copy local.sample.neon onto local.neon and fill your credentials
+	Run composer install in cmd
+	Make directories `temp/` and `log/` writable.
+	Copy local.sample.neon onto local.neon and fill your credentials
 
 
 Web Server Setup
