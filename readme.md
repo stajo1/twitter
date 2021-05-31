@@ -29,6 +29,7 @@ download it following [the instructions](https://doc.nette.org/composer). Then u
 
 Make directories `temp/` and `log/` writable.
 Run composer install in cmd
+Copy local.sample.neon onto local.neon and fill your credentials
 
 
 Web Server Setup
